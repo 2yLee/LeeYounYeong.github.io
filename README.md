@@ -3,7 +3,9 @@
 ## About Me
 
 University : Hanyang University
+
 Major : Industrial Engineering
+
 E-mail : dldbsdud98@naver.com
 
 ## 기술스택
