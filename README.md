@@ -8,6 +8,9 @@
 
 ## 기술스택
 
+### skills
+  - Machine Learning, Deep Learning, Data Mining, Optimization, Statistics
+
 ### programming languages
  - Skilled : Python
  - Low level : Matlab, SQL
@@ -21,3 +24,5 @@
  - 빅데이터분석기사
 
 ## Projects
+
+ - Optimization for Soil Conductivity (Link)[https://github.com/2yLee/LYY_Projects/tree/soil_conductivity_optimization)
