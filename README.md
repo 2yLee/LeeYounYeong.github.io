@@ -25,4 +25,4 @@
 
 ## Projects
 
- - Optimization for Soil Conductivity (Link)[https://github.com/2yLee/LYY_Projects/tree/soil_conductivity_optimization)
+ - Optimization for Soil Conductivity [Link](https://github.com/2yLee/LYY_Projects/tree/soil_conductivity_optimization)
