@@ -13,7 +13,7 @@
 
 ### programming languages
  - Skilled : Python
- - Low level : Matlab, SQL
+ - Low level : Matlab, MySQL
 
 ### Libraries
  - pandas, numpy, scikit-learn, matplotlib, torch, xgboost, lightgbm,
